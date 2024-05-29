@@ -1,0 +1,61 @@
+
+body {
+    font-size: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+}
+
+.profile-pic {
+    display: block;
+    width: 250px;
+    height: 250px;
+    border-radius: 70%;
+    margin: 0 auto 20px;
+    background-color: antiquewhite;
+}
+
+
+.about p {
+    line-height: 1.5;
+    text-align: center;
+}
+.skills h2{
+    font-size: 3em;
+    margin-top: 30px;
+    text-align: left;
+}
+
+.container {
+    align-items: center; 
+    float: left;
+  }
+
+ .image{
+      float: left;
+    padding: 5px;
+  }
+
+footer {
+    background-color:rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
